@@ -9,4 +9,4 @@ def ft(c):
     print("총 문자 수 : ", count)
 
 ch = input("찾는 문자 : ")
-total = ft(ch)
+total = ft(ch) 

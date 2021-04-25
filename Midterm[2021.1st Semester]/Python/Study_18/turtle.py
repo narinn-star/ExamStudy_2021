@@ -12,5 +12,5 @@ def triangle():
     t.forward(100)
     t.left(60)
 
-for i in range(6):
+for i in range(6): 
     triangle()
