@@ -1,0 +1,40 @@
+import turtle
+t = turtle.Pen()
+t.shape("turtle")
+
+for i in range(5):
+    t.forward(100)
+    t.left(72)
+    t.forward(100)
+    t.right(144)
+########################
+t.clear()
+for i in range(5):    
+    t.forward(200)
+    t.right(144)    
+########################
+t.clear()
+t.left(60)
+t.forward(100)
+t.left(120)
+t.forward(100)
+t.left(120)
+t.forward(200)
+t.right(120)
+t.forward(100)
+t.right(120)
+t.forward(100)
+########################
+t.clear()
+t.forward(100)
+t.left(120)
+t.forward(100)
+t.left(120)
+t.forward(100)
+t.left(120)
+t.forward(100)
+t.right(120)
+t.forward(100)
+t.right(120)
+t.forward(100)
+t.right(120)
