@@ -8,7 +8,7 @@ class Animal:
     def speak(self):
         print("I am a {} and I {}.".format(self.species, self.language))
 
-snoopy = Animal()
-snoopy.setSpecies('dog')
-snoopy.setLanguage('bark')
-snoopy.speak()
+# snoopy = Animal()
+# snoopy.setSpecies('dog')
+# snoopy.setLanguage('bark')
+# snoopy.speak()
