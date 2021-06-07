@@ -1,0 +1,4 @@
+Smith 87 92 76
+Adams 69 88 79
+John 92 89 93
+Peter 95 92 96
