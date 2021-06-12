@@ -1,5 +1,23 @@
-2021 1st semester
+#### 2021 Exam Study
 
-Midterm
+<hr>
 
-Final Exam
+###### 1st semester
+
+>  Midterm
+
+C++ Programming	
+
+Python
+
+Java Programming
+
+
+
+>  Final Exam
+
+C++ Programming
+
+Python
+
+Java Programming
