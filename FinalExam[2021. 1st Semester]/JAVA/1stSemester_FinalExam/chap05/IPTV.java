@@ -13,5 +13,4 @@ public class IPTV extends ColorTV{
 		IPTV iptv = new IPTV("192.1.1.2", 32, 2048);
 		iptv.printProperty();
 	}
-
 }
