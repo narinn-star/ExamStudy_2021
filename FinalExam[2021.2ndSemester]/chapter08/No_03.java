@@ -10,7 +10,8 @@ public class No_03 {
 		try {
 			fr = new FileReader("C:\\windows\\system.ini");
 			fw = new FileWriter("file/copySystem.txt");
-
+			
+			//외우기
 			int n;
 			while ((n = fr.read()) != -1) {
 				if(Character.isUpperCase(n))
